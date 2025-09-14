@@ -42,8 +42,8 @@ To get a copy of this project up and running on your local machine, follow these
 
 **Installation**
 1.  Clone the repository.
-
   git clone [https://github.com/Harshita12Rai/Pharmacy-Management-System](https://github.com/Harshita12Rai/Pharmacy-Management-System)
+
 2.  mport the project into your preferred Java IDE (e.g., IntelliJ IDEA or Eclipse).
 
 3.  Configure your MySQL database connection details within the application's source code.
