@@ -57,4 +57,4 @@ You can watch a full video demonstration of the application here:
 YouTube Demo [https://youtu.be/qqYmI4w3Ea0?si=6S40rR9LPOKNNcyL](https://youtu.be/qqYmI4w3Ea0?si=6S40rR9LPOKNNcyL)
 
 
-Project Link: https://github.com/your-username/pharmacy-management-system
+
